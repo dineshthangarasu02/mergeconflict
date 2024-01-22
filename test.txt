@@ -1,1 +1,1 @@
-conflict
+city: bangalore
